@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-I am a self-taught backend programmer from Poland 🇵🇱  Hoping to professionally work with Python and SQL
+I am learning Python and SQL. Hoping to become a professional backend developer 
 
